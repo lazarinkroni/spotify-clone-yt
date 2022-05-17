@@ -1,2 +1,2 @@
-# Next.js Spotify App + Tailwind CSS Example + Vercel +
+# Next.js Spotify App + Tailwind CSS Example EDUCATION PURPUSES
 
